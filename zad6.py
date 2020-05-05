@@ -13,3 +13,5 @@ for i in range(od,do):
     i+=1
     if i%5==0: # zamaist %5 wstawiamy  (do wersji rozszerzonej)
            print("liczba:",i)
+
+

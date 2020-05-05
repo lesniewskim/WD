@@ -13,3 +13,4 @@ while i < liczba:
     lista.append(int(a))
 
 print("Elementy listy:",lista)
+

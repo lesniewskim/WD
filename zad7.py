@@ -27,3 +27,5 @@ while True:
     if b == 'n' :
         print("Koniec pracy Programu") 
         break 
+
+    

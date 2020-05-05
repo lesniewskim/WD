@@ -21,3 +21,5 @@ if (a>=0 and a<=10):
 
 else:
         print("a nie jest w przediale od 0 do 10")
+
+        

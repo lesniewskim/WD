@@ -12,3 +12,4 @@ b = int(b)
 c = a*b
 c = str(c)
 sys.stdout.write(c)
+ 
