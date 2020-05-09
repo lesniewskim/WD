@@ -1,17 +1,13 @@
 
-print("Podaj liczbe a ja policze sume tworzacych ja cyfr: ")
+print("Podaj liczbe : ")
 
 liczba = input()
-  
 i = 0
 
-while True: 
-  
+while i<len(liczba): 
+    
     i+=1  
     liczba = int(liczba)
-    suma = liczba[0] + liczba[i]
-    
-
-    
+    suma +=liczba[i]
 
 print("Suma cyfr tworzacych podana liczbe to: " , suma)
